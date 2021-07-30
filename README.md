@@ -28,4 +28,4 @@ python django project template with pre-configured development tools:
  2. install poetry: 
  `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`
  [link](https://python-poetry.org/docs/)
- 3. create project: `cookiecutter gh:hamedsh/cookiecutter-poetry-base`
+ 3. create project: `cookiecutter gh:hamedsh/cookiecutter_poetry_django`
